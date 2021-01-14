@@ -6,4 +6,4 @@ data:
   application.yaml: |-
     message: hola
     environment:
-      name: production
+      name: productiona
